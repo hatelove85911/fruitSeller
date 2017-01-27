@@ -1,0 +1,19 @@
+{
+  "name": "fruitSeller2",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "material-ui": "^0.16.7",
+    "meteor-node-stubs": "~0.2.3",
+    "querystring": "^0.2.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "url": "^0.11.0",
+    "wechat": "^2.0.3"
+  }
+}
